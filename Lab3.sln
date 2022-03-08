@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListofStudentsbyClass", "ListofStudentsbyClass\ListofStudentsbyClass.csproj", "{10AAE9C3-76F1-4EF2-A53B-8368A5DED13F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchForm", "SearchForm\SearchForm.csproj", "{E989D107-D186-42DC-A838-1828ABC55D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10AAE9C3-76F1-4EF2-A53B-8368A5DED13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AAE9C3-76F1-4EF2-A53B-8368A5DED13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AAE9C3-76F1-4EF2-A53B-8368A5DED13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AAE9C3-76F1-4EF2-A53B-8368A5DED13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E989D107-D186-42DC-A838-1828ABC55D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E989D107-D186-42DC-A838-1828ABC55D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E989D107-D186-42DC-A838-1828ABC55D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E989D107-D186-42DC-A838-1828ABC55D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72683167-998A-4C1D-9379-4D5519C257EB}
+	EndGlobalSection
+EndGlobal
